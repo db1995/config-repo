@@ -1,2 +1,2 @@
 zuul:
-  prefix: /api/user
+  prefix: /api
